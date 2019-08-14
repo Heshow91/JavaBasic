@@ -20,6 +20,4 @@ Methods methods = new Methods();
 	
 	
 	}
-	 methods .calculator;
-		
 }

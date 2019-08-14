@@ -12,6 +12,10 @@ public class Variable2 {
 	
 	System.out.println(Variables.Name+Variables.email+Variables.ID);
 	
+	
+	
+	
+	
 	//desired class name + reference Variable = new(keyword)+ class Name(){constructor of the class}
 
 }
